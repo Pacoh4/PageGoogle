@@ -1,0 +1,44 @@
+.mic{
+    background-image: url(micro.jpeg) ;
+    background-repeat: no-repeat;
+    background-position: right;
+    border-radius: 20px;
+    width: 300px;
+    background-size: 10px;
+}
+header{
+padding-left: 80%;
+  
+}
+body{
+  
+}
+.centre{
+    text-align: center;
+    
+}
+.ro{
+background-color: brown;
+}
+footer{
+    background-color: rgb(235, 239, 243);
+    margin-top: 480px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+.droite{
+    text-align: left;
+}
+
+.do{
+display: flex;
+justify-content: space-between;
+
+word-spacing: 10px;
+}
+h5{
+    border-bottom: 10px;
+
+}
